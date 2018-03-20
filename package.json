@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@okta/jwt-verifier": "0.0.11",
-    "@okta/oidc-middleware": "0.0.15",
+    "@okta/oidc-middleware": "^0.1.1",
     "colors": "^1.1.2",
     "cors": "^2.8.4",
     "express": "^4.14.0",
